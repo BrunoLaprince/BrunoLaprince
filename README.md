@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/3gD76uV.jpeg" width="100px" alt="GitHub Readme Stats" />
   <h1 style="font-size: 28px; margin: 10px 0;">Bruno Laprince</h1>
 
-  <p>Buscando sempre aprender!</p>
+  <p>Aprendizado contínuo aplicado na prática para gerar impacto real.</p>
 </div>
 
 ### **Redes Sociais**
@@ -12,12 +12,13 @@
 <a href="https://www.linkedin.com/in/bruno-laprince-56b2b838" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-
 badge&logo=linkedin&logoColor=white"> </a>
-<a href="http://lattes.cnpq.br/Bruno Laprince" target="_blue">
-  <img src="" height="28"></a>
+
 <a href="http://lattes.cnpq.br/4068432269512109" target="_blank">
-  <img src="https://img.shields.io/badge/Lattes-Perfil-00457C?style=for-the-badge&logo=readme&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Lattes-Perfil-00457C?style=for-the-badge&logo=readme&logoColor=white"></a>
+
 <a href="https://www.tiktok.com/@brunoduarte311?_r=1&_t=ZS-95PKRFFICEy">
   <img src="https://img.shields.io/badge/@SEU_USUARIO-TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white"></a>
+
 <a href="[LINK_INSTAGRAM]" target="_blank">
 <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-
 the-badge&logo=instagram&logoColor=white"> </a>
