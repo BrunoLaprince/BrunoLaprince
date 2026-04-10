@@ -9,18 +9,26 @@
 ### **Redes Sociais**
 <div>
 </a>
-<a href="[LINK_INSTAGRAM]" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-
-the-badge&logo=instagram&logoColor=white">
-</a>
 <a href="https://www.linkedin.com/in/bruno-laprince-56b2b838" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-
 badge&logo=linkedin&logoColor=white"> </a>
-<a href="mailto:[SEU_EMAIL]">
-<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-<a href="https://www.tiktok.com/@brunoduarte311?_r=1&_t=ZS-95PKRFFICEy">
-</a>
+<a href="http://lattes.cnpq.br/Bruno Laprince" target="_blue">
+  <img src="" height="28">
 
+</a>
+<a href="http://lattes.cnpq.br/4068432269512109" target="_blank">
+  <img src="https://img.shields.io/badge/Lattes-Perfil-00457C?style=for-the-badge&logo=readme&logoColor=white">
+
+</a>
+<a href="https://www.tiktok.com/@brunoduarte311?_r=1&_t=ZS-95PKRFFICEy">
+  <img src="https://img.shields.io/badge/@SEU_USUARIO-TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white">
+
+</a>
+</a>
+<a href="[LINK_INSTAGRAM]" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-
+the-badge&logo=instagram&logoColor=white"> </a>
+</a>
 </div>
 
 ---
