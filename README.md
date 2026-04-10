@@ -8,10 +8,7 @@
 
 ### **Redes Sociais**
 <div>
-
-<a href="https://www.linkedin.com/in/bruno-laprince-56b2b838" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-
-badge&logo=linkedin&logoColor=white"> </a>
+<a href="https://www.linkedin.com/in/bruno-laprince-56b2b838"><img src="https://img.shields.io/badge/LinkedIn-Bruno laprince-blue?style=for-the-badge&logo=linkedin"></a>
 
 <a href="http://lattes.cnpq.br/4068432269512109" target="_blank">
 <img src="https://img.shields.io/badge/Lattes-Perfil-00457C?style=for-the-badge&logo=readme&logoColor=white"></a>
