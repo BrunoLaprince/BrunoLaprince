@@ -55,6 +55,9 @@ Projeto Git e GitHub: Instação e Comandos Essenciais para o Primeiro Commit
 
 ---
 ## 🔥 **Projetos**
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100px"/>
+</div>
 
 Número Secreto com JavaScript - <a href="https://jogo-do-numero-secreto-dusky-beta.vercel.app/">Projetos</a> 
 
@@ -85,11 +88,8 @@ utilizando PySpark, aplicando técnicas de tratamento de dados, engenharia de co
 
 
 ---
-<p>Aprendizado contínuo aplicado na prática para gerar impacto real.</p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100px"/>
-</div>
+
 
 
 <!--
