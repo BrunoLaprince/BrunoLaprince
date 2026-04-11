@@ -56,7 +56,9 @@ Projeto Git e GitHub: Instação e Comandos Essenciais para o Primeiro Commit
 ---
 ## 🔥 **Projetos**
 
-Número Secreto com JavaScript 
+Número Secreto com JavaScript - <a href="https://jogo-do-numero-secreto-dusky-beta.vercel.app/">Projetos</a> 
+
+Calculadora Web - <a href="[Projeto]">Projetos</a>
 
 Análise de BigDados  
 
@@ -81,6 +83,13 @@ utilizando PySpark, aplicando técnicas de tratamento de dados, engenharia de co
 ## **Filosofia**
 "Mas, se algum de vocês tem falta de sabedoria, peça-a a Deus, que a todos dá generosamente e sem censura, e ela lhe será dada." (Tiago 1:5 )
 
+
+---
+<p>Aprendizado contínuo aplicado na prática para gerar impacto real.</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100px"/>
+</div>
 
 
 <!--
